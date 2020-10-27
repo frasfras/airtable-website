@@ -4,7 +4,7 @@ const config = {
   bodyBackground: "#ffc6c7",
   title: "Custom1",
   subTitle: "Finished Furniture ",
-  airtable: "https://airtable.com/embed/shrg1geAbjcffqePs?backgroundColor=purple&viewControls=on",
+  airtable: "https://airtable.com/embed/shrMp9y0Hwyp5AtCY?backgroundColor=purple",
   googleAnalytics: "UA-XXXXXXXX-X"
 }
 
