@@ -56,7 +56,7 @@ function App() {
                 <br/>
                 <iframe 
                   className="airtable-embed"
-                  src= "www.yahoo.com"
+                  src= {config.airtable}
                   title="airtable"
                   frameBorder="0"
                   width="95%"
