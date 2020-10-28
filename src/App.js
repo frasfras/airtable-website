@@ -5,8 +5,8 @@ import './App.css';
 import ReactGA from 'react-ga';
 import config from './configuration'
 
-ReactGA.initialize(config.googleAnalytics);
-ReactGA.pageview(window.location.pathname + window.location.search);
+//ReactGA.initialize(config.googleAnalytics);
+//ReactGA.pageview(window.location.pathname + window.location.search);
 
 const {Header} = Layout;
 const FlexCol = styled.div`
