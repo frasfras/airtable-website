@@ -1,6 +1,6 @@
 const config = {
   header: "Header",
-  headerBackground: "#ff8ba7",
+  headerBackground: "#ff8ba1",
   bodyBackground: "#ffc6c7",
   title: "Custom1 -test",
   subTitle: "Finished Furniture ",
