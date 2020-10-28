@@ -56,7 +56,7 @@ function App() {
                 <br/>
                 <iframe 
                   className="airtable-embed"
-                  src={config.airtable}
+                  src= https://www.airplug.xyz/airtable
                   title="airtable"
                   frameBorder="0"
                   width="95%"
