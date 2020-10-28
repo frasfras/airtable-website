@@ -56,7 +56,7 @@ function App() {
                 <br/>
                 <iframe 
                   className="airtable-embed"
-                  src="https://airtable.com/embed/shr22ULKvCQHSqWS4?backgroundColor=cyan"
+                  src={config.airtable}
                   title="airtable"
                   frameBorder="0"
                   width="95%"
