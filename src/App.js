@@ -5,8 +5,8 @@ import './App.css';
 import ReactGA from 'react-ga';
 import config from './configuration'
 
-//ReactGA.initialize(config.googleAnalytics);
-//ReactGA.pageview(window.location.pathname + window.location.search);
+ReactGA.initialize(config.googleAnalytics);
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 const {Header} = Layout;
 const FlexCol = styled.div`
@@ -56,7 +56,7 @@ function App() {
                 <br/>
                 <iframe 
                   className="airtable-embed"
-                  src= https://www.airplug.xyz/airtable
+                  src= "www.yahoo.com"
                   title="airtable"
                   frameBorder="0"
                   width="95%"
